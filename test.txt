@@ -1,0 +1,7 @@
+Hallo dies ist mein eigener erster Test
+
+Ich schreibe hier einen Test in eine Test datei.
+
+Die in einem Git Repository gespeichert ist. 
+
+Hier schreibe ich in die Test datei. 

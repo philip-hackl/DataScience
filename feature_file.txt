@@ -1,5 +1,0 @@
-Hallo
-
-Feature File
-
-Test 
